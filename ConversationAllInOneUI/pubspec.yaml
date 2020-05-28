@@ -1,0 +1,51 @@
+name: com
+description: A Chat Application with 2 - 3 New Features apart from Chat Application like Whatsapp
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  firebase_core:
+  firebase_analytics:
+  firebase_storage:
+  flutter_screenutil: ^0.4.2
+  firebase_auth: ^0.16.0
+  cloud_firestore: ^0.13.5
+  provider:
+  timeago:
+  flutter_spinkit: ^4.1.2+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: CM Sans Serif
+      fonts:
+        - asset: assets/fonts/cm_sans_serif_2012.ttf
+
+    - family: CustomIcons
+      fonts:
+        - asset: assets/fonts/CustomIcons.ttf
+
+    - family: Poppins-Bold
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+
+    - family: Poppins-Medium
+      fonts:
+        - asset: assets/fonts/Poppins-Medium.ttf

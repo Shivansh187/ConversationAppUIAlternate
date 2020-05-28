@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260257429361",
+    "firebase_url": "https://conversation-1fe78.firebaseio.com",
+    "project_id": "conversation-1fe78",
+    "storage_bucket": "conversation-1fe78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260257429361:android:49565214b538f6cdcee8d0",
+        "android_client_info": {
+          "package_name": "shivansh187.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260257429361-t6gcmumkb74p7uj6opkl1orch0pi1cv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrrUsrY5d4YBDFP3f9Q_-5e4qiWToeCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260257429361-t6gcmumkb74p7uj6opkl1orch0pi1cv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
